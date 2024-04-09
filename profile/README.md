@@ -1,9 +1,16 @@
-## Hi there 👋
+# Research and Project Theme
+Project Name : QGEN AI
+Period : 2024-03-12 ~ 2024-11-30
+Participants : @opusdeisong @standardwish @yeodakyum @Im Seonmin @herakwon1124
+## Project Goal
+The aim of this project is to develop an AI model capable of automatically generating English questions based on keywords selected by the user, along with a website that utilizes this model.
 
-**Here are some ideas to get you started:**
+## Key Question
+How can language education tools, powered by AI technology, bring about changes to traditional teaching methods and the industry as a whole?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+## How it works
+- Build a database which is the question list that was previous exams.
+- Develop a next-generation ai model(we call it 'QGEN AI') using Claude 3 Opus 
+
+## How to use
+`https://qgen.ai`
