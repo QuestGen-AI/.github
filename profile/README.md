@@ -1,6 +1,6 @@
 # Research and Project Theme
-Project Name : QGEN AI
-Period : 2024-03-12 ~ 2024-11-30
+Project Name : QGEN AI<br/>
+Period : 2024-03-12 ~ 2024-11-30<br/>
 Participants : @opusdeisong @standardwish @yeodakyum @Im Seonmin @herakwon1124
 
 This project is in collaboration with **2024 한양 학술타운 LION**
