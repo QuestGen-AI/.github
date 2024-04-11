@@ -15,4 +15,7 @@ How can language education tools, powered by AI technology, bring about changes 
 - Develop a next-generation ai model(we call it 'QGEN AI') using Claude 3 Opus 
 
 ## How to use
-`https://qgen.ai`
+```
+WEBSITE LINK
+https://frontend-uik9.vercel.app
+```
